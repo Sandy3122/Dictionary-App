@@ -1,4 +1,4 @@
-# Dictionary Web App - Frontend Mentor Challenge
+# Dictionary Web App
 ![Screenshot](./screenshot.webp)
 
 It appears that the project you're trying to run uses Vite as its build tool and development server. Here are the steps to run the `fem-dictionary-web-app` project on your localhost:
