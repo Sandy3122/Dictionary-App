@@ -15,8 +15,8 @@
         "dest": "/src/$1.$2"
       },
       {
-        "src": "/vite.config.js",
-        "dest": "/vite.config.js"
+        "src": "/(.*)",
+        "dest": "/src/index.html"
       }
     ]
   }
