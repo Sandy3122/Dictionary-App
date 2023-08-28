@@ -1,7 +1,7 @@
 {
     "builds": [
       {
-        "src": "src/vite.config.js",
+        "src": "/vite.config.js",
         "use": "@vercel/static-build",
         "config": {}
       }
@@ -15,8 +15,8 @@
         "dest": "/src/$1.$2"
       },
       {
-        "src": "/(.*)",
-        "dest": "/src/index.html"
+        "src": "/vite.config.js",
+        "dest": "/vite.config.js"
       }
     ]
   }
